@@ -1,0 +1,25 @@
+nav{
+    margin-top: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+    color: black;
+    border: 1px solid skyblue;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: azure;
+}
+
+nav a:hover{
+    color: aqua;
+    background-color: blue;
+    
+}
+
+nav a:active{
+    color: white;
+    background-color: darkturquoise;
+}
