@@ -1,0 +1,42 @@
+/* .container-display{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+} */
+
+.single-review{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+
+.left-side{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.image-section img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+} 
+
+.name-rating{
+    text-align: left;
+}
+
+.comment{
+    padding: 10px;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.fa-star{
+    color: gold;
+    font-size: 18px;
+}

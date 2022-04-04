@@ -1,0 +1,12 @@
+.containerr{
+    background-color: darkorange;
+    border: 5px solid aqua;
+    border-radius: 20px;
+    margin: 30px 400px;
+    padding: 30px 0;
+}
+
+.containerr h1{
+    color: red;
+    font-size: 30px;
+}

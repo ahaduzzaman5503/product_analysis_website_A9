@@ -1,0 +1,24 @@
+.about-container{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: left;
+    padding: 10px;
+}
+
+.user-image{
+    margin-top: 10px;
+
+}
+
+.user-image img{
+    width: 170px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gray;
+}
