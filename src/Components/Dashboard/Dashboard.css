@@ -1,4 +1,9 @@
-.oneChart, .twoChart{
+.allChart{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.oneChart, .twoChart, .threeChart, .fourChart{
     display: grid;
     justify-content: center;
     align-items: center;

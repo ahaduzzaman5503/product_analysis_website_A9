@@ -43,7 +43,7 @@
     padding: 10px;
     border-radius: 10px;
     color: aqua;
-    background-color: blue;
+    background-color: rgba(43, 43, 192, 0.767);
 
 }
 .review-btn{
@@ -51,7 +51,7 @@
     padding: 10px;
     border-radius: 10px;
     color: aqua;
-    background-color: blue;
+    background-color: rgba(49, 49, 151, 0.616);
 
 }
 
